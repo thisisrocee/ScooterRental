@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\bin\Debug\net7.0\ScooterRental.deps.json
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\bin\Debug\net7.0\ScooterRental.dll
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\bin\Debug\net7.0\ScooterRental.pdb
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.AssemblyInfo.cs
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.dll
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\refint\ScooterRental.dll
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ScooterRental.pdb
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\Tests\ScooterRental\obj\Debug\net7.0\ref\ScooterRental.dll

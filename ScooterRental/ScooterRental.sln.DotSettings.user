@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\User\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_10edc91a\CoverageData\_ScooterRental.1602107881\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=51a47148_002D23b1_002D4e14_002D8df5_002D3ed96991d375/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="3" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests.Name_CompanyNameReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests.StartRent_IdProvided_ScooterIsRented&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests.StartRent_EmptyIdProvided_ThrowsInvalidIdException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests.StartRent_ValidIdProvided_ScooterIsRented&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests.StartRent_NullIdProvided_ThrowsInvalidIdException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests.EndRent_ValidIdProvided_ScooterRentEnded&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.RentalCompanyTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AA294793-1CBF-454C-B051-292F5CA00964::net7.0::ScooterRental.Tests.ScooterRentalTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9742768f_002D0d98_002D4496_002Daac7_002D5803c2781bbc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
